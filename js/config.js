@@ -17,8 +17,8 @@
  * If these two values are left as empty strings, the app shows a setup
  * screen where you can paste them (saved only on this device as a preference).
  */
-export const SUPABASE_URL = ""; // e.g. "https://xxxxxxxxxxxx.supabase.co"
-export const SUPABASE_ANON_KEY = ""; // e.g. "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+export const SUPABASE_URL = "https://qcparlsoxuanxonnerzh.supabase.co"; // e.g. "https://xxxxxxxxxxxx.supabase.co"
+export const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFjcGFybHNveHVhbnhvbm5lcnpoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA0OTg2MDEsImV4cCI6MjEwNjA3NDYwMX0.y_EVhM6tOOUHd9Jz500ktd62qzfGQwwjuH4SxKmvHLY"; // e.g. "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
 
 export const CONFIG = {
   supabase: {
